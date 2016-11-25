@@ -1,0 +1,3 @@
+[submodule "zb3219PA_XBEEAdapter"]
+	path = zb3219PA_XBEEAdapter
+	url = https://github.com/SensorsUnleashed/zb3219PA_XBEEAdapter.git
