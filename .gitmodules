@@ -2,3 +2,7 @@
 	path = zb3219PA_XBEEAdapter
 	url = https://github.com/SensorsUnleashed/zb3219PA_XBEEAdapter.git
 	branch = master
+[submodule "KicadComponents"]
+	path = KicadComponents
+	url = https://github.com/SensorsUnleashed/KicadComponents.git
+	branch = master
