@@ -6,3 +6,9 @@
 	path = KicadComponents
 	url = https://github.com/SensorsUnleashed/KicadComponents.git
 	branch = master
+[submodule "relayboard"]
+	path = relayboard
+	url = https://github.com/SensorsUnleashed/relayboard.git
+[submodule "kicad-library"]
+	path = kicad-library
+	url = https://github.com/KiCad/kicad-library.git
