@@ -13,3 +13,6 @@
 [submodule "RadioOne"]
 	path = RadioOne
 	url = git@github.com:SensorsUnleashed/RadioOne.git
+[submodule "pulsesensor"]
+	path = pulsesensor
+	url = git@github.com:SensorsUnleashed/pulsecounter.git
