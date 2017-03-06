@@ -9,6 +9,7 @@
 [submodule "relayboard"]
 	path = relayboard
 	url = https://github.com/SensorsUnleashed/relayboard.git
+	branch = master
 [submodule "RadioOne"]
 	path = RadioOne
 	url = git@github.com:SensorsUnleashed/RadioOne.git
