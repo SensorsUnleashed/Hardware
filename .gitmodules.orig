@@ -1,0 +1,18 @@
+[submodule "zb3219PA_XBEEAdapter"]
+	path = zb3219PA_XBEEAdapter
+	url = https://github.com/SensorsUnleashed/zb3219PA_XBEEAdapter.git
+	branch = master
+[submodule "KicadComponents"]
+	path = KicadComponents
+	url = https://github.com/SensorsUnleashed/KicadComponents.git
+	branch = master
+[submodule "relayboard"]
+	path = relayboard
+	url = https://github.com/SensorsUnleashed/relayboard.git
+<<<<<<< HEAD
+[submodule "RadioOne"]
+	path = RadioOne
+	url = git@github.com:SensorsUnleashed/RadioOne.git
+=======
+	branch = master
+>>>>>>> aee25138e564f18f9029bf63bec3d3cb9be9cbb4
