@@ -12,3 +12,6 @@
 [submodule "pulsesensor"]
 	path = pulsesensor
 	url = git@github.com:SensorsUnleashed/pulsecounter.git
+[submodule "relayboard"]
+	path = relayboard
+	url = git@github.com:SensorsUnleashed/relayboard.git
